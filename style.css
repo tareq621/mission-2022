@@ -1,0 +1,30 @@
+.top-text{
+    font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Yeseva One', cursive;
+
+}
+h1{
+    font-size: 40px;
+}
+.color-fixed{
+    color: purple;
+}
+section{
+    display: flex;
+}
+.link-button{
+    color: white;
+    text-decoration: none;
+    padding: 10px 25px;
+    background-image: linear-gradient(tomato,rgb(175, 61, 41));
+    
+}
+.person-profile{
+    width: 50%;
+    padding-left: 5%;
+}
+.person-profile img{
+    width: 50%;
+    margin-left: 20%;
+}
