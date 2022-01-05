@@ -10,12 +10,13 @@ h1{
 .color-fixed{
     color: purple;
 }
-section{
+.section-divide{
     display: flex;
 }
 .link-button{
     color: white;
     text-decoration: none;
+    border-radius: 7px;
     padding: 10px 25px;
     background-image: linear-gradient(tomato,rgb(175, 61, 41));
     
