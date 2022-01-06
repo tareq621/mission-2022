@@ -5,10 +5,24 @@ font-family: 'Yeseva One', cursive;
 
 }
 h1{
-    font-size: 40px;
+    font-size: 60px;
 }
-.color-fixed{
+#mission-color{
     color: purple;
+}
+.middle-color{
+    color: purple;
+    text-align: center;
+}
+#center{
+    text-align: center;
+}
+#left-border{
+    
+    border-left: solid purple 4px;
+    border-radius: 2px 2px;
+    padding-left: 8px;
+    
 }
 .section-divide{
     display: flex;
