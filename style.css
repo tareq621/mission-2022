@@ -58,18 +58,17 @@ span{
     
 }
 .half-width{
-    width: 40%;
-    
-    margin-left: 10%;
-    border-radius: 8%;
+    width: 50%;
+    margin-left:10%;
+    border-radius: 10%;
     text-align: justify;
-    padding: 10px 10px 10px 10px;
-    
+    padding: 10px 10px 10px 10px; 
+}
+.half-width img{
+    width: 30%;
 }
 .color-change-mission{
-    background-color: #E6E6FA
-    
-    ;
+    background-color: #E6E6FA;
 }
 .color-change-vission{
     background-color: #FFF0F5;
@@ -77,9 +76,7 @@ span{
 .color-change-goal{
     background-color: #FFEBCD;
 }
-.half-width img{
-    width: 30%;
-}
+
 .font-design{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
