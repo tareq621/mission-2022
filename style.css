@@ -80,3 +80,27 @@ span{
 .font-design{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+.devlop-part{
+    
+    width: 20%;
+    margin-left: 10%;
+}
+
+.devlop-part img
+{
+    width: 120%;
+    margin-left: 5%;
+    margin-bottom: 10%;
+    margin-top: 10%;
+}
+.back-img{
+    background-image: url(images/pictures/dream-bg.png);
+    background-repeat: no-repeat;
+    
+
+    margin: 0 auto;
+    
+    
+    
+    
+}
